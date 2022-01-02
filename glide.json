@@ -3,7 +3,7 @@
     "kind": "column",
     "name": "getPrescore",
     "description": "get previous score. if not, return false",
-    "author": "Paul <shojiyamada@gmail.com",
+    "author": "yamadas2021",
     "params": [
       {
         "name": "num",
