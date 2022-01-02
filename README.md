@@ -1,2 +1,2 @@
-# communica
-use glideapps as field
+# glideapps - experimental code
+get score 
