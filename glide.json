@@ -1,0 +1,23 @@
+[
+  {
+    "kind": "column",
+    "name": "getPrescore",
+    "description": "get previous score. if not, return false",
+    "author": "Paul <shojiyamada@gmail.com",
+    "params": [
+      {
+        "name": "num",
+        "displayName": "Number",
+        "type": "number"
+      },
+      {
+        "name": "hashname",
+        "displayName": "Student hash",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
+]
