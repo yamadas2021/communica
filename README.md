@@ -1,2 +1,2 @@
 # glideapps - experimental code
-get score 
+find file to get user's score
